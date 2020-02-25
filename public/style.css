@@ -6,7 +6,7 @@ body {
 }
 
 a {
-    color: #D33257;
+    color: turquoise;
     text-decoration: none;
 }
 
@@ -37,7 +37,7 @@ button {
 
 input {
     width: 100%;
-    border: 2px solid #D33257;
+    border: 2px solid turquoise;
     border-top-left-radius: 5px;
     border-bottom-left-radius: 5px;
 }
@@ -45,7 +45,7 @@ input {
 button {
     font-size: 14px;
     font-weight: 600;
-    background-color: #D33257;
+    background-color: turquoise;
     color: #fff;
     border: 0;
 
